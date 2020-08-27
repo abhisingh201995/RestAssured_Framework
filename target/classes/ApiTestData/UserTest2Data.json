@@ -1,0 +1,15 @@
+{
+  "SampleTest2.userTest2": [
+    {
+      "input": {
+        "URL": "",
+        "method": "POST",
+        "payload": ""
+      },
+      "output": {
+        "statusCode": "200",
+        "response": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5baa49c0-0c39-43b9-9a1f-92d246d5631a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sele</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gVd4OH58fSXS1pfZdtJtDEIjBa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1580293093861" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AutomationFramework_Anupam_1.0\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/AutomationFramework_Anupam_1.0/src/main/resources/testng.xml">
+    <configuration name="FrameworkMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Tests.ApiTest.FrameworkMain" />
+      <module name="AutomationFramework_Anupam_1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tests.ApiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Tests.ApiTest.Test" />
+      <module name="AutomationFramework_Anupam_1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tests.ApiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Tests.ApiTest.b" />
+      <module name="AutomationFramework_Anupam_1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tests.ApiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainclasssample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Tests.ApiTest.mainclasssample" />
+      <module name="AutomationFramework_Anupam_1.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Tests.ApiTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/AutomationFramework_Anupam_1.0/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationFramework_Anupam_1.0" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.Tests.ApiTest" type="TestNG" nameIsGenerated="true">
+      <module name="AutomationFramework_Anupam_1.0" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.Tests.ApiTest" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FrameworkMain" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.b" />
+      <item itemvalue="Application.mainclasssample" />
+      <item itemvalue="TestNG.com.Tests.ApiTest" />
+      <item itemvalue="TestNG.C:/AutomationFramework_Anupam_1.0/src/main/resources/testng.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/AutomationFramework_Anupam_1.0/src/main/resources/testng.xml" />
+        <item itemvalue="Application.FrameworkMain" />
+        <item itemvalue="Application.b" />
+        <item itemvalue="Application.mainclasssample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5baa49c0-0c39-43b9-9a1f-92d246d5631a" name="Default Changelist" comment="" />
+      <created>1576746946111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576746946111</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1580377259977</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580377259977</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598541850776">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598541850776" />
+    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1598539655513">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1598539655513" />
+    <state width="1322" height="379" key="GridCell.Tab.0.bottom" timestamp="1598542537232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="379" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598542537232" />
+    <state width="1322" height="379" key="GridCell.Tab.0.center" timestamp="1598542537232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="379" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598542537232" />
+    <state width="1322" height="379" key="GridCell.Tab.0.left" timestamp="1598542537232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="379" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598542537232" />
+    <state width="1322" height="379" key="GridCell.Tab.0.right" timestamp="1598542537232">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="379" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598542537232" />
+    <state width="1322" height="379" key="GridCell.Tab.1.bottom" timestamp="1598542537233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="379" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598542537233" />
+    <state width="1322" height="379" key="GridCell.Tab.1.center" timestamp="1598542537233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="379" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598542537233" />
+    <state width="1322" height="379" key="GridCell.Tab.1.left" timestamp="1598542537233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="379" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598542537233" />
+    <state width="1322" height="379" key="GridCell.Tab.1.right" timestamp="1598542537233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="379" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598542537233" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1598205342649">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1598205342649" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Utilities/Helper.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Utilities/Helper.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/Utilities/Helper.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AutomationFramework_Anupam_1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
